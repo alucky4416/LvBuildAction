@@ -22,4 +22,5 @@ LabVIEW BuildAction VI
 ## 後処理 (Pre-Build Action)
 
 * Post-Build Action_AddToIni_allowmultipleinstances.vi: アプリケーションINIファイルに多重起動を許可する設定を追加する。
+* Post-Build Action_AddToIni_DefaultFont.vi: アプリケーションINIファイルにデフォルトフォント設定を追加（WinXP->Win7フォント対策）
 
